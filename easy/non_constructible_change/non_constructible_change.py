@@ -5,7 +5,7 @@ Created on: 1/8/22
 @author: Montse Navarro <montserrat.nvro.lpz@gmail.com>
 Licence,
 """
-coins = [1, 2, 5]
+coins = [5, 7, 1, 1, 2, 3, 22]
 
 
 def non_constructible_change(coins):
